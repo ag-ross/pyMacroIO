@@ -147,7 +147,7 @@ This implementation should be cited as: [0], building on [1–3]; [4] should als
 
 ## References
 
-0. Ross, A. G. (2025). A Python implementation of a single-region Dynamic Disequilibrium Input–Output model. 
+0. Ross, A. G. (2025). A Python implementation of a single-region Dynamic Disequilibrium Input–Output model. [10.5281/zenodo.18419984](https://doi.org/10.5281/zenodo.18419984)  
 
 1. Pichler, A., Pangallo, M., del Rio-Chanona, R. M., Lafond, F., & Farmer, J. D. (2022). Forecasting the propagation of pandemic shocks with a dynamic input–output model. *Journal of Economic Dynamics and Control*, 144, 104527. <https://doi.org/10.1016/j.jedc.2022.104527>
 
